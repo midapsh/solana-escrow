@@ -4008,6 +4008,7 @@ dependencies = [
 name = "solana-escrow"
 version = "0.1.0"
 dependencies = [
+ "arrayref",
  "assert_matches",
  "solana-logger",
  "solana-program",
