@@ -2,4 +2,6 @@
 /*.so
 /target/
 
+# Solana
+test-ledger/
 *.key
